@@ -1,6 +1,6 @@
 # Blogs
 
-<b> Data analytics maturity in an organization </b>
+<b> 1. Data analytics maturity in an organization </b>
 
 Data analytics is becoming increasingly important for organizations looking to gain insights from their past and present data to make better business decisions. The main objective of data analytics is to answer three key questions: why a particular phenomenon is happening, what will happen next, and how to utilize that knowledge best.
 For example, a company may use data analytics to identify its most profitable customers and understand why some customers are less profitable. They can then use this information to segment their customer base and make targeted cross-selling and pricing decisions.
